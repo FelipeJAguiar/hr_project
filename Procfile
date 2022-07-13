@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run hr_project_app.py
