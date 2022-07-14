@@ -71,7 +71,8 @@ H6: O crescimento do preço dos imóveis MoM (month over month) é de 10%.
 
 ❌ Inválida: Após uma sequência de queda entre Jun/2014 e Jan/2015, o preço médio de vendas cresceu. O que configura uma tendência de equilíbrio dos preços durante os meses analisados.
 
-# Resultados financeiros
+# Resultados Financeiros
+
 |  Preço total de compra dos 300 imóveis  |  Preço total de venda dos 300 imóveis  |   Lucratividade total   |
 |-----------------------------------------|----------------------------------------|-------------------------|
 |            $263.037.725,00               |            $341.949.042,00            |      $78.911.318,00     |
