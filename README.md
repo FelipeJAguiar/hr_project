@@ -79,4 +79,6 @@ A lucratividade em porcentagem foi de 30%!
 
 # Conclusão
 
-Por fim, o objetivo do projeto foi alcançado, pois conseguiu-se indicar os imóveis certos para compra, o preço de venda para as futuras negociações e qual a melhor época do ano para negociá-los. Para projetos futuros, focar na expanção dos dados, agora através da ótica do cliente, analisando quais pontos e atributos mais impactam para adquirir ou não um imóvel. 
+Por fim, o objetivo do projeto foi alcançado, pois conseguiu-se indicar os imóveis certos para compra, o preço de venda para as futuras negociações e qual a melhor época do ano para negociá-los. Para projetos futuros, focar na expanção dos dados, agora através da ótica do cliente, analisando quais pontos e atributos mais impactam para adquirir ou não um imóvel.
+
+* * * PROJETO FICTÍCIO * * *
