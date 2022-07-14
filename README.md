@@ -1,5 +1,6 @@
 #  PROJETO HOUSE ROCKET
 <img src="https://raw.githubusercontent.com/felipejaguiar/hr_project/main/img/hrf.png" alt="logo" style="zoom:80%;" />
+# # # PROJETO FICTÍCIO # # #
 
 # Questão de Negócio
 A House Rocket é uma empresa do ramo imobiliário com foco na compra e venda de imóveis. Visando a maximização de seus resultados, a empresa requisitou o projeto como forma de otimizar o processo de tomada de decisão de quais negócios devem ser concretizados. Para isso, disponibilizou um conjunto de dados contendo alguns atributos de cada imóvel, como por exemplo: localização, preço, data de construção, entre outros. Além disso, a empresa definiu seu objetivo com o projeto em três perguntas, que são:
@@ -81,4 +82,3 @@ A lucratividade em porcentagem foi de 30%!
 
 Por fim, o objetivo do projeto foi alcançado, pois conseguiu-se indicar os imóveis certos para compra, o preço de venda para as futuras negociações e qual a melhor época do ano para negociá-los. Para projetos futuros, focar na expanção dos dados, agora através da ótica do cliente, analisando quais pontos e atributos mais impactam para adquirir ou não um imóvel.
 
-* * * PROJETO FICTÍCIO * * *
