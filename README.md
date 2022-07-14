@@ -76,9 +76,8 @@ H6: O crescimento do preço dos imóveis MoM (month over month) é de 10%.
 |-----------------------------------------|----------------------------------------|-------------------------|
 |            $263.037.725,00               |            $341.949.042,00            |      $78.911.318,00     |
 
-A lucratividade em porcentagem foi de 30%!
 
 # Conclusão
 
-Por fim, o objetivo do projeto foi alcançado, pois conseguiu-se indicar os imóveis certos para compra, o preço de venda para as futuras negociações e qual a melhor época do ano para negociá-los. Para projetos futuros, focar na expanção dos dados, agora através da ótica do cliente, analisando quais pontos e atributos mais impactam para adquirir ou não um imóvel.
+Por fim, o objetivo do projeto foi alcançado, pois conseguiu-se indicar os imóveis certos para compra, o preço de venda para as futuras negociações e qual a melhor época do ano para negociá-los, além de estimar o lucro dos negócio que resultou em 30% de ganhos. Para projetos futuros, uma sugestão seria focar na expanção dos dados, agora através da ótica do cliente, analisando quais pontos e atributos mais impactam para adquirir ou não um imóvel.
 
