@@ -44,7 +44,8 @@ Ferramentas:
 
 🟣Streamlit (construção das visualizações);
 
-🟣Heroku (disponibilização das visualizações).
+🟣Streamlit Cloud (disponibilização das visualizações);
+
 
 # Insights de Negócio
 
